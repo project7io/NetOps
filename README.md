@@ -1,5 +1,5 @@
 #### Bash Commands ####
-[Bash command for IP Addresses](#heading-2 "Bash commands for IP addresses")
+[Bash command for IP Addresses](#IP-addresses "Bash commands for IP addresses")
 
 Link to a Linux script to update https://github.com/project7io/scripts/blob/master/update.sh 
 
