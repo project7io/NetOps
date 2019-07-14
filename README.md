@@ -1,2 +1,2 @@
 # scripts
-GitHub for NetOps
+Place to keep my Linux Scripts
