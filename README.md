@@ -9,7 +9,23 @@ Link to a Linux script to update https://github.com/project7io/scripts/blob/mast
 .
 .
 .
-.
+.#### Get internal IP Raspbian OS ####
+#### Get internal IP Raspbian OS ####
+#### Get internal IP Raspbian OS ####
+
+#### Get internal IP Raspbian OS ####
+
+#### Get internal IP Raspbian OS ####
+
+#### Get internal IP Raspbian OS ####
+
+#### Get internal IP Raspbian OS ####
+
+#### Get internal IP Raspbian OS ####
+
+#### Get internal IP Raspbian OS ####
+
+#### Get internal IP Raspbian OS ####
 .
 .
 .
